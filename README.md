@@ -1,2 +1,1 @@
-# PicWorld
-Bot Discord NSFW
+Soon...
